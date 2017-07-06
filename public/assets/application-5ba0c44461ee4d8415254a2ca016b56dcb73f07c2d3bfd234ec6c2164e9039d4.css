@@ -1,0 +1,143 @@
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.red {
+  background-color: #FC4349;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.red-text {
+  color: #FC4349;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.pink {
+  background-color: #E4004F;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.pink-text {
+  color: #E4004F;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.blue {
+  background-color: #2C3E50;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.blue-text {
+  color: #2C3E50;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.grey {
+  background-color: #D7DADB;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.grey-text {
+  color: #D7DADB;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.dark-grey {
+  background-color: #666;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.dark-grey-text {
+  color: #666;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.light-blue {
+  background-color: #6DBCDB;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.light-blue-text {
+  color: #6DBCDB;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.white {
+  background-color: #fff;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.white-text {
+  color: #fff;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.indigo {
+  background-color: #2F33AC;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.indigo-text {
+  color: #2F33AC;
+}
+
+/* line 14, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.black {
+  background-color: #000;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/colors.scss */
+.black-text {
+  color: #000;
+}
+/* line 1, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/common.scss */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* line 6, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/common.scss */
+.full-height {
+  height: 100%;
+}
+
+/* line 9, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/common.scss */
+.no-margin {
+  margin: 0;
+}
+
+/* line 13, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/common.scss */
+.big-padding {
+  padding: 2em 1.5em;
+}
+
+/* line 17, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/common.scss */
+.top-space {
+  margin-top: 1em;
+}
+
+/* line 21, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/common.scss */
+underline {
+  text-decoration: underline;
+}
+/* line 4, /home/velez/Proyectos/CodigoFacilitoRedSocial/Rsocial/app/assets/stylesheets/main.scss */
+.main-background {
+  background-image: url("/assets/background-c09694e435a19eb152c8d0967263911056903986320c65a2e6510cc721d3efee.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+
+
+ */
+
