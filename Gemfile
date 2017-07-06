@@ -39,6 +39,7 @@ gem 'omniauth-facebook'
 gem  'flexbox_rb'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
+gem 'best_in_place'
 
 
 
